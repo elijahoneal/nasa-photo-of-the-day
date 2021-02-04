@@ -28,7 +28,6 @@ function App() {
       title = {nasaData.title}
       date = {nasaData.date}
       photo = {nasaData.url}
-      copyright = {nasaData.copyright}
       caption = {nasaData.explanation}
       />
     </div>
